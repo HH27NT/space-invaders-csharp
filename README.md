@@ -3,6 +3,8 @@
 A small Space Invaders clone written in C# with Windows Forms (.NET Framework 4.7.2).
 Final project for an object-oriented programming course.
 
+![Space Invaders gameplay](docs/screenshot.png)
+
 ## Gameplay
 
 - Move the ship with **← / →** and shoot with **Space** (200 ms cooldown between shots).
